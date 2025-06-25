@@ -1,5 +1,5 @@
 <!-- Fondo simulado con una imagen de estrellas -->
-<h1 align="center">🚀 ¡Hola, soy <a href="https://github.com/JoseLuisBello">Jose Luis Bello</a>! 🧑‍🚀</h1>
+<h1 align="center">🚀 ¡Hola, soy <a href="https://github.com/JoseLuisBello">Jose Luis</a>! 🧑‍🚀</h1>
 
 <p align="center">
   👨‍🚀 Desarrollador web y amante del espacio, explorando universos de código a diario 🌌
