@@ -45,14 +45,6 @@
 
 ---
 
-## 👨‍🚀 Zona Cósmica de Contacto
-
-<p align="center">
-  🌍 [LinkedIn](https://www.linkedin.com/)  |  ✉️ [Correo](mailto:jose@example.com) *(agrega tu correo y LinkedIn real)*
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" alt="Astronaut waving"/>
 </p>
