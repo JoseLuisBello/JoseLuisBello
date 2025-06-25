@@ -1,13 +1,5 @@
 <!-- Fondo simulado con una imagen de estrellas -->
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" height="200px"/>
-</p>
-
 <h1 align="center">🚀 ¡Hola, soy <a href="https://github.com/JoseLuisBello">Jose Luis Bello</a>! 🧑‍🚀</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/7pD4MGE.gif" width="150px" alt="Astronaut floating" />
-</p>
 
 <p align="center">
   👨‍🚀 Desarrollador web y amante del espacio, explorando universos de código a diario 🌌
@@ -21,7 +13,6 @@
 - 🌐 Construyo interfaces con **HTML**, **CSS**, **Tailwind CSS** y otras tecnologías web modernas
 - 🚀 Fanático de los astronautas, el espacio y todo lo que implique creatividad + tecnología
 - 🎯 Siempre aprendiendo, soñando en grande y lanzando nuevas ideas al universo
-- 📫 Contáctame: [jose@example.com](mailto:jose@example.com) *(coloca tu correo real)*
 
 ---
 
