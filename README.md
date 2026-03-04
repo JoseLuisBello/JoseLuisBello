@@ -1,22 +1,22 @@
 <!-- Fondo simulado con una imagen de estrellas -->
-<h1 align="center">🚀 ¡Hola, soy <a href="https://github.com/JoseLuisBello">Jose Luis</a>! 🧑‍🚀</h1>
+<h1 align="center"> ¡Hola, soy <a href="https://github.com/JoseLuisBello">Jose Luis</a>! </h1>
 
 <p align="center">
-  👨‍🚀 Desarrollador web y amante del espacio, explorando universos de código a diario 🌌
+  Desarrollador web y amante del espacio, explorando universos de código a diario
 </p>
 
 ---
 
-## 🛰️ Sobre Mí
+## Sobre Mí
 
-- 💻 Amante del lenguaje **C** (¡mi favorito!), también programo en **Java**, **Python**, **PHP**, **JavaScript** y **Node.js**
-- 🌐 Construyo interfaces con **HTML**, **CSS**, **Tailwind CSS** y otras tecnologías web modernas
-- 🚀 Fanático de los astronautas, el espacio y todo lo que implique creatividad + tecnología
-- 🎯 Siempre aprendiendo, soñando en grande y lanzando nuevas ideas al universo
+- Amante del lenguaje **C** (¡mi favorito!), también programo en **Java**, **Python**, **PHP**, **JavaScript** y **Node.js**
+- Construyo interfaces con **HTML**, **CSS**, **Tailwind CSS** y otras tecnologías web modernas
+- Fanático de los astronautas, el espacio y todo lo que implique creatividad + tecnología
+- Siempre aprendiendo, soñando en grande y lanzando nuevas ideas al universo
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## Tecnologías que manejo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,php,js,nodejs,html,css,tailwind,vscode,git,linux" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌠 Mis Estadísticas de GitHub
+## Mis Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseLuisBello&show_icons=true&theme=tokyonight&count_private=true" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 🪐 Proyectos Destacados
+## Proyectos Destacados
 
 <p align="center">
   <a href="https://github.com/JoseLuisBello/JoseLuisBello">
@@ -51,10 +51,10 @@
 
 ---
 
-## 🌌 Mensaje Final
+## Mensaje Final
 
 <p align="center">
-  “El universo no tiene límites... ¡tampoco tu código!” 💻🚀
+  “El universo no tiene límites... ¡tampoco tu código!”
 </p>
 
 <p align="center">
