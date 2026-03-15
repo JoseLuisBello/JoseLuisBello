@@ -38,7 +38,7 @@
 ## Proyectos Destacados
 
 <p align="center">
-  <a href="[https://github.com/JoseLuisBello/JoseLuisBello](https://github.com/JoseLuisBello/luxury-clothes)">
+  <a href="https://github.com/JoseLuisBello/luxury-clothes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseLuisBello&repo=JoseLuisBello&theme=tokyonight" />
   </a>
 </p>
