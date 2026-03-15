@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/JoseLuisBello/luxury-clothes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseLuisBello&repo=Jluxury-clothes&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseLuisBello&repo=luxury-clothes&theme=tokyonight" />
   </a>
 </p>
 
